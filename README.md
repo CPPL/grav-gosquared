@@ -24,13 +24,17 @@ You should now have all the plugin files under
 
 # Config Defaults
 
+Prior to the [Admin plugin](https://github.com/getgrav/grav-plugin-admin) you could modify a plugins yaml file directly (you still can actually) but now the Admin screens offer a much easier and safer way to adjust the plugins settings.
+
+The `gosquared.yaml` contains only 3 settings:
+
 ```
 enabled: true  
 gsn: ''  
 gsInAdmin: false
 ```
 
-If you need to change any value, then the best process is to copy the [gosquared.yaml](gosquared.yaml) file into your `users/config/plugins/` folder (create it if it doesn't exist), and then modify there. This will override the default settings.
+If you need to change any value, I recommend using the Admin screens available via the Admin plugin . This will let you change any of the settings and provide a useful tooltip for each setting (hover over the settings label).
 
 # Usage
 
