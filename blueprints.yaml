@@ -1,7 +1,7 @@
 name: GoSquared Analytics
-version: 0.0.0
+version: 0.1.0
 description: "GoSquared Analytics plugin lets you easily add the GoSquared Analytics platform to your GRAV website."
-icon: google
+icon: bar-chart
 author:
   name: Craig Phillips
   email: support@seepeople.com

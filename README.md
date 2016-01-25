@@ -1,12 +1,12 @@
 # GoSquared for GRAV
 
-This is [GRAV](http://getgrav.org) plugin adds the [GoSquared Analytics](https://gosquared.com) tracking code to GRAV pages.
+This is a [GRAV](http://getgrav.org) plugin that adds the [GoSquared Analytics](https://gosquared.com) tracking code to GRAV pages.
 
 # Installation
 
 Installing the GoSquared plugin can be done in one of two ways.
 
-## GPM Installation (Preferred)
+## GPM Installation (Preferred) _Coming Soon_
 
 The simplest way to install this plugin is via the [Grav Package Manager (GPM)](http://learn.getgrav.org/advanced/grav-gpm) through your system's Terminal (also called the command line).  From the root of your Grav install type:
 
