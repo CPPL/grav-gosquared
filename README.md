@@ -1,6 +1,6 @@
-# GoSquared for GRAV
+# GoSquared for Grav
 
-This is a [GRAV](http://getgrav.org) plugin that adds the [GoSquared Analytics](https://gosquared.com) tracking code to GRAV pages.
+This is a [Grav](http://getgrav.org) plugin that adds the [GoSquared Analytics](https://gosquared.com) tracking code to Grav pages.
 
 # Installation
 
