@@ -1,3 +1,11 @@
+# v0.1.3
+## 20/03/2017
+
+1. [](#improved)
+  * Fix formatting on changelog entries
+1. [](#improved)
+  * Fix docs label in blueprint
+
 # v0.1.2
 ## 20/03/2017
 
