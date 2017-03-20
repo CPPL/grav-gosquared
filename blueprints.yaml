@@ -1,5 +1,5 @@
 name: GoSquared Analytics
-version: 0.1.2
+version: 0.1.3
 description: "GoSquared Analytics plugin lets you easily add the GoSquared Analytics platform to your GRAV website."
 icon: bar-chart
 author:
@@ -9,7 +9,7 @@ author:
 homepage: https://github.com/cppl/grav-gosquared
 keywords: gosquared, plugin, tracking, analytics
 bugs: https://github.com/cppl/grav-gosquared/issues
-readme: https://github.com/cppl/grav-gosquared/blob/master/README.md
+docs: https://github.com/cppl/grav-gosquared/blob/master/README.md
 license: MIT
 
 form:
