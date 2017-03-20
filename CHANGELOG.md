@@ -3,7 +3,9 @@
 
 1. [](#improved)
   * Updates to blueprints.yaml to improve listing
+1. [](#improved)
   * Updates to contact email and URL
+1. [](#improved)
   * Updates to Changelog.md to bring it inline with GRAV format.
 
 # v0.1.1
