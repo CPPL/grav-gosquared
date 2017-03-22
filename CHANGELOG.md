@@ -1,3 +1,9 @@
+# v0.1.4
+## 23/03/2017
+
+1. [](#improved)
+  * Fix copy paste mistakes in changelog entries
+
 # v0.1.3
 ## 20/03/2017
 
