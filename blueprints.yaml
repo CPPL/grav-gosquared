@@ -1,5 +1,5 @@
 name: GoSquared Analytics
-version: 0.1.4
+version: 0.1.5
 description: "GoSquared Analytics plugin lets you easily add the GoSquared Analytics platform to your GRAV website."
 icon: bar-chart
 author:
@@ -18,7 +18,7 @@ form:
     enabled:
       type: toggle
       label: Plugin Status
-      hightlight: 1
+      highlight: 1
       default: 0
       options:
         1: Enabled

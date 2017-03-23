@@ -1,3 +1,9 @@
+# v0.1.5
+## 23/03/2017
+
+1. [](#improved)
+  * Fixed typo in blueprints for enable button highlight
+
 # v0.1.4
 ## 23/03/2017
 
