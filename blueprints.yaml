@@ -1,5 +1,5 @@
 name: GoSquared Analytics
-version: 0.1.3
+version: 0.1.5
 description: "GoSquared Analytics plugin lets you easily add the GoSquared Analytics platform to your GRAV website."
 icon: bar-chart
 author:
@@ -17,29 +17,29 @@ form:
   fields:
     enabled:
       type: toggle
-      label: Plugin Status
-      hightlight: 1
+      label: PLUGIN_ADMIN.PLUGIN_STATUS
+      highlight: 1
       default: 0
       options:
-        1: Enabled
-        0: Disabled
+        1: PLUGIN_ADMIN.ENABLED
+        0: PLUGIN_ADMIN.DISABLED
       validate:
         type: bool
 
     gsn:
       type: text
       size: medium
-      label: GoSquared Tracking Code
+      label: PLUGIN_GOSQUARED.GSN
       placeholder: 'GSN-999999-X'
-      help: GoSquared Tracking Code. ( The tracking code is usually of the form GSN-999999-X )  Please note each website in your GoSquared account will have it's own GSN tracking code.
+      help: PLUGIN_GOSQUARED.GSN_HELP
 
     gsInAdmin:
       type: toggle
-      label: Track Admin Users
+      label: PLUGIN_GOSQUARED.GS_IN_ADMIN
       default: 0
       options:
         1: On
         0: Off
       validate:
         type: bool
-      help: GoSquared can be enabled to track Admin usage as well — generally GRAV admin usage doesn't warrant this feature being turned on.
+      help: PLUGIN_GOSQUARED.GS_IN_ADMIN_HELP
