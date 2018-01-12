@@ -38,8 +38,20 @@ form:
       label: PLUGIN_GOSQUARED.GS_IN_ADMIN
       default: 0
       options:
-        1: On
-        0: Off
+        1: PLUGIN_ADMIN.ENABLED
+        0: PLUGIN_ADMIN.DISABLED
       validate:
         type: bool
       help: PLUGIN_GOSQUARED.GS_IN_ADMIN_HELP
+
+    gsLoadLate:
+      type: toggle
+      label: PLUGIN_GOSQUARED.GS_LOAD_LATE
+      default: 0
+      options:
+        1: PLUGIN_ADMIN.ENABLED
+        0: PLUGIN_ADMIN.DISABLED
+      validate:
+        type: bool
+      help: PLUGIN_GOSQUARED.GS_LOAD_LATE_HELP
+

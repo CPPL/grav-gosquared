@@ -1,3 +1,9 @@
+# v0.2.0
+## 12-01-2018
+
+1. [](#new)
+    * Added late loading of GoSquared inline JS (uses templates 'bottom' group for JS)
+
 # v0.1.6
 ## 19-06-2017
 
