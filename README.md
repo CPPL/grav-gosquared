@@ -7,7 +7,7 @@ This is a [Grav](http://getgrav.org) plugin that adds the [GoSquared Analytics](
 Installing the GoSquared plugin can be done in one of two ways.
 
 ### Admin Installation (Preferred)
-If you have the [GRAV Admin plugin](https://getgrav.org/downloads/plugins) installed (and you really should ) you can install this plugin from your browser. Simply login to your Admin area, click on "Plugins" in the left sidebar menu, the click on `+ Add` in the top right of the Plugins view.
+If you have the [GRAV Admin plugin](https://getgrav.org/downloads/plugins) installed (and you really should ) you can install this plugin from your browser. Simply log in to your Admin area, click on "Plugins" in the left sidebar menu, and then click on `+ Add` in the top right of the Plugins view.
 
 Simply scroll to the GoSquared Analytics plugin (or filter by name) and then click `+ Install` on the right end of the row for the plugin.
 
@@ -29,7 +29,7 @@ You should now have all the plugin files under
 
 ## Config Defaults
 
-Prior to the [Admin plugin](https://github.com/getgrav/grav-plugin-admin) you could modify a plugins yaml file directly (you still can actually) but now the Admin screens offer a much easier and safer way to adjust the plugins settings.
+Prior to the [Admin plugin](https://github.com/getgrav/grav-plugin-admin), you could modify a plugins' yaml file directly (you still can actually), but now the Admin screens offers a much easier and safer way to adjust the plugin settings.
 
 The `gosquared.yaml` contains only 3 settings:
 
@@ -44,5 +44,5 @@ If you need to change any value, I recommend using the Admin screens available v
 ## Usage
 
 1. In your GoSquared account, open the domain you're using Grav on (or add one if needed).
-2. At the bottom of the left side menu you will find *Settings* — click on it.
+2. At the bottom of the left side menu, you will find *Settings* — click on it.
 3. Copy the *GoSquared Site Token* and paste it into the settings for the plugin (I recommend **pasting** not typing...)
